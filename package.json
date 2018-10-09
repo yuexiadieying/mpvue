@@ -12,6 +12,7 @@
   },
   "dependencies": {
     "flyio": "^0.5.9",
+    "iview-weapp": "^2.0.0",
     "mpvue": "^1.0.12",
     "mpvue-entry": "^1.4.2",
     "mpvue-router-patch": "^0.2.1",

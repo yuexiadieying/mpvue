@@ -17,6 +17,7 @@
     <view class="h">
       <navigator url="../brand/brand">
         <text class="txt">品牌制造商直供</text>
+        <i-button type="primary" @click="bindViewTap">这是一个按钮1</i-button>
       </navigator>
     </view>
     <view class="b">
@@ -162,6 +163,7 @@ export default {
     }
   }
 }
+
 </script>
 
 <style>

@@ -27,7 +27,7 @@ export default {
       navigationBarBackgroundColor: '#fff',
       navigationBarTitleText: '唯美帮商家圈',
       navigationBarTextStyle: 'black',
-      'enablePullDownRefresh': true
+      enablePullDownRefresh: true
     },
     tabBar: {
       'backgroundColor': '#fafafa',
@@ -71,5 +71,5 @@ export default {
     'request': 10000,
     'downloadFile': 10000
   },
-  'debug': true
+  'debug': true,
 }

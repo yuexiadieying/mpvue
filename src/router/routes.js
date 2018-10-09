@@ -3,7 +3,8 @@ module.exports = [
     path: '/pages/index/index',
     name: 'index',
     config: {
-      enablePullDownRefresh: true
+      enablePullDownRefresh: true,
+      usingComponents: {'i-button': '../../static/iview/button/index'}
     }
   },
   {

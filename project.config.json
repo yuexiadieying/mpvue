@@ -10,7 +10,7 @@
 	"miniprogramRoot": "./dist/",
 	"compileType": "miniprogram",
 	"appid": "wxbbe21ea8315b484c",
-	"projectname": "mpvue-beauty",
+	"projectname": "mpvue-beauty-1.0",
 	"condition": {
 		"search": {
 			"current": -1,
